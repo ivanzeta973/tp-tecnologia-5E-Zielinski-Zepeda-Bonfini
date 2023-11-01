@@ -37,13 +37,13 @@ header {
   border-bottom: 0;
   margin-top: 2%;
   font-size: 40px;
-  text-decoration: underline #ef87c5;
+  text-decoration: underline #00b4d8;
 }
  
 h1 {
     margin-top: 2%;
     font-size: 60px;
-    text-decoration: underline #ef87c5;
+    text-decoration: underline #00b4d8;
 }
  
 nav{
@@ -75,12 +75,12 @@ nav{
   }
  
   nav a:hover {
-    background-color: #a61685;
+    background-color: #1267d6;
   }
  
  
   footer {
-    background-color: #ef87c5;
+    background-color: #00b4d8;
     color: #000;
     display: flex;
     width: 100%;
@@ -94,7 +94,7 @@ nav{
  
   h2 {
     margin-top: 0;
-    border-bottom: 2px solid #ef87c5;
+    border-bottom: 2px solid #00b4d8;
     padding-bottom: 0.5rem;
   }
  
